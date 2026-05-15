@@ -19,7 +19,6 @@ graphify-out/
 .claude/
 skills/
 docs/superpowers/
-.vscode/
 openspec/
 uv.lock
 # Local benchmark scripts — never commit
@@ -27,3 +26,5 @@ scripts/run_k2_*.py
 scripts/llm.py
 scripts/benchmark_kimi*.json
 scripts/benchmark_kimi*.py
+config.bat
+node_modules
