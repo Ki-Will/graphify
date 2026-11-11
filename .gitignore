@@ -25,7 +25,4 @@ scripts/run_k2_*.py
 scripts/llm.py
 scripts/benchmark_kimi*.json
 scripts/benchmark_kimi*.py
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
 .gitignore
